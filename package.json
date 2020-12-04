@@ -51,7 +51,7 @@
     "codemirror": "^5.51.0",
     "core-js": "^3.6.4",
     "gravatar": "^1.8.0",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "ionicons": "^5.0.0",
     "js-base64": "^2.5.2",
     "loaders.css": "^0.1.2",
